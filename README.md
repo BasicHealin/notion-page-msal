@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Project Description: Notion Page with Microsoft Authentication
+
+This project emerged from the need for an accessible and cost-effective solution for Notion users facing limitations on free accounts or those seeking public access. Notion offers robust collaboration features but restricts access for a limited number of users or when content is made public. To overcome these constraints, this Next.js application integrates Microsoft Authentication, providing a seamless and secure way to share Notion content.
+
 ## Getting Started
 
 First, run the development server:
